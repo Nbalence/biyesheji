@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5A1A13A691336BFE059FDC57116DAA1B800ABA6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5A1A13A691336BFE059FDC57116DAA1B800ABA6" : 0,
+    "BD0211FAABBF2C182C249DDDB4A783C59254381A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D649A48F-6961-4BB7-A90F-3AB342AD6ACC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5A1A13A691336BFE059FDC57116DAA1B800ABA6" : "%E4%BE%8B%E5%AD%90\/",
+    "BD0211FAABBF2C182C249DDDB4A783C59254381A" : "..\/%E7%AC%AC2%E9%98%B6%E6%AE%B5UI0321\/%E4%BE%8B%E5%AD%90"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "心随曲动",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "心随曲动6.0副本\/心随曲动.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Nbalence\/2016-05-20-zuoye-xiangmu-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD0211FAABBF2C182C249DDDB4A783C59254381A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Nbalence\/2016-05-20-02-zuoye-xiangmu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5A1A13A691336BFE059FDC57116DAA1B800ABA6"
+    }
+  ]
+}
